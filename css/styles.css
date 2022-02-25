@@ -17,8 +17,9 @@ ul {
 .intro {
   font-style: italic;
 }
-.header{
-background-color: blue;
+header{
+background-color: green;
+text-align: center;
 }
 .Address{
   color: blue;
@@ -29,4 +30,7 @@ background-color: blue;
 }
 .address{
   text-align: center;
+}
+li {
+  display: inline;
 }
