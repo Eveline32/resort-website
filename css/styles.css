@@ -6,10 +6,27 @@ h2 {
   color: green;
   font-style: italic;
   text-align: center;
+  background-color:#eeee;
 }
 p {
   font-family: sans-serif;
 }
 ul {
   line-height: 40px;
+}
+.intro {
+  font-style: italic;
+}
+.header{
+background-color: blue;
+}
+.Address{
+  color: blue;
+  text-align: center;
+}
+.important{
+  text-align: center;
+}
+.address{
+  text-align: center;
 }
